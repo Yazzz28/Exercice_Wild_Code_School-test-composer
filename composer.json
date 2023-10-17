@@ -1,0 +1,21 @@
+{
+    "name": "yacin/composer2",
+    "description": "quete2",
+    "require": {
+        "gipetto/cowsay": "1.2.0"
+    },
+    "require-dev": {
+        "gipetto/cowsay": "1.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yacin\\Composer2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yazzz28",
+            "email": "yacinemennaa@gmail.com"
+        }
+    ]
+}
